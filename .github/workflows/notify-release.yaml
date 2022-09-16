@@ -15,7 +15,7 @@ jobs:
       - name: Test
         run: |
           curl --request POST \
-          --url https://hashi-brandon-api.ngrok.io/products/packer/integrations/integration-example/notify-release \
+          --url https://hashi-brandon-api.ngrok.io/products/packer/integrations/brandoncorp-plugin/notify-release \
           --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'content-type: application/json' \
           --data '{
