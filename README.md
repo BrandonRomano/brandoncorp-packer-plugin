@@ -2,11 +2,11 @@ This is an example packer plugin to illustrate the integrations flow.
 
 Here's some lorem ipsum so the README doesn't feel so empty.
 
-# Installing the Plugin
+## Installing the Plugin
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Urna duis convallis convallis tellus. Etiam sit amet nisl purus in mollis. Euismod nisi porta lorem mollis. Bibendum enim facilisis gravida neque. Odio euismod lacinia at quis risus sed vulputate. Tempus quam pellentesque nec nam aliquam sem et tortor. Vel risus commodo viverra maecenas accumsan lacus. Pretium lectus quam id leo in. Etiam erat velit scelerisque in dictum non consectetur a. Nullam eget felis eget nunc lobortis. Cursus in hac habitasse platea dictumst quisque. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Ultrices sagittis orci a scelerisque. Sollicitudin nibh sit amet commodo nulla facilisi nullam.
 
-# Using the Plugin
+## Plugin Usage
 
 Id porta nibh venenatis cras sed felis eget velit aliquet. Consectetur libero id faucibus nisl tincidunt eget nullam. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Integer feugiat scelerisque varius morbi enim nunc. Duis ultricies lacus sed turpis tincidunt id aliquet. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Duis at tellus at urna condimentum. Venenatis tellus in metus vulputate eu. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Eu ultrices vitae auctor eu. Facilisis gravida neque convallis a cras semper auctor neque vitae. Neque aliquam vestibulum morbi blandit.
 
