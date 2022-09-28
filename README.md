@@ -2,7 +2,7 @@ This is an example packer plugin to illustrate the integrations flow.
 
 Here's some lorem ipsum so the README doesn't feel so empty.
 
-This is the README for v2.0.0!
+This is the README for v3.0.0!
 
 ## Installing the Plugin
 
