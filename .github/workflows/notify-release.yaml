@@ -1,10 +1,14 @@
-name: Notify Integration Release
+name: Notify Integration Release (Manual)
 on:
   workflow_dispatch:
     inputs:
       version:
         description: "A semver"
         default: 0.0.1
+        required: false
+      branch:
+        description: "A branch or SHA"
+        default: 'main'
         required: false
 jobs:
   notify-release:
@@ -19,7 +23,7 @@ jobs:
       - name: Notify Release
         uses: ./integration-release-action
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           integration_identifier: 'packer/brandoncorp-plugin'
           release_version: ${{ github.event.inputs.version }}
-          release_sha: 'main'
+          release_sha: ${{ github.event.inputs.branch }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
